@@ -2,6 +2,8 @@
 
 A decentralized peer-to-peer chat system that allows multiple users to communicate without requiring a central server. Built in Java using TCP/IP sockets.
 
+> 📚 **Documentação Completa Disponível**: Este projeto inclui documentação técnica abrangente (100% do código). Consulte o **[Índice da Documentação](INDICE_DOCUMENTACAO.md)** para acessar guias detalhados, exemplos práticos e referência completa da API.
+
 ## Features
 
 - **Multiple Peer Connections**: Connect to multiple peers simultaneously
@@ -142,6 +144,22 @@ Potential improvements for the system:
 - Use the `status` command to check active connections
 - Check console output for connection/disconnection messages
 - Verify network connectivity using standard tools (ping, telnet)
+
+## Documentação Completa
+
+Este projeto possui documentação técnica abrangente cobrindo 100% do código:
+
+### 📖 Documentos Principais
+- **[DOCUMENTACAO_COMPLETA.md](DOCUMENTACAO_COMPLETA.md)** - Guia técnico e do usuário completo (40k+ caracteres)
+- **[DOCUMENTACAO_API.md](DOCUMENTACAO_API.md)** - Referência detalhada da API para desenvolvedores (50k+ caracteres)  
+- **[EXEMPLOS_PRATICOS.md](EXEMPLOS_PRATICOS.md)** - Cenários práticos e solução de problemas (19k+ caracteres)
+- **[INDICE_DOCUMENTACAO.md](INDICE_DOCUMENTACAO.md)** - Índice navegável de toda a documentação
+
+### 🎯 Navegação Rápida
+- **Novo Usuário?** → Comece com este README, depois vá para [DOCUMENTACAO_COMPLETA.md#primeiro-uso](DOCUMENTACAO_COMPLETA.md#primeiro-uso)
+- **Desenvolvedor?** → Consulte [DOCUMENTACAO_API.md](DOCUMENTACAO_API.md) para referência técnica completa
+- **Problema?** → Veja [EXEMPLOS_PRATICOS.md#solução-detalhada-de-problemas](EXEMPLOS_PRATICOS.md#solução-detalhada-de-problemas)
+- **Casos Avançados?** → Explore [EXEMPLOS_PRATICOS.md#casos-de-uso-avançados](EXEMPLOS_PRATICOS.md#casos-de-uso-avançados)
 
 ## License
 
